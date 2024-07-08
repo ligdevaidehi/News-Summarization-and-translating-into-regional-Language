@@ -1,6 +1,3 @@
-Sure! Here is a README file for your GitHub repository that outlines the purpose, installation steps, usage, and additional information for your News Summarizer and Translator project:
-
----
 
 # News Summarizer and Translator 📰
 
